@@ -1,6 +1,6 @@
 # ProgramowanieAplikacyjne_Lab01
 
-## Założenia/Funkcjonalności
+## Założenia/Funkcjonalności:
 
 ### - Licznik postępu
 ### - Nauka znaków i ruchu drogowego
